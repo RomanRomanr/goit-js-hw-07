@@ -25,7 +25,6 @@ const callback = (event) => {
   //     password: password,
   // }
     console.log(users);
-    console.log(form);
   form.reset();
 }
 
